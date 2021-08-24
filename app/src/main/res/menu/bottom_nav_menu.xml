@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_main"
+        android:title="main"
+        android:icon="@drawable/ic_baseline_sports_esports_24"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/search"
+        android:title="search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:enabled="true"
+        />
+    <item
+        android:id="@+id/menu_user"
+        android:title="user"
+        android:icon="@drawable/ic_baseline_child_care_24"
+        android:enabled="true"
+        />
+
+    <item
+        android:id="@+id/menu_setting"
+        android:title="setting"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:enabled="true"
+        />
+
+</menu>

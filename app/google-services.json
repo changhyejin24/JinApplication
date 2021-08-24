@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "728375888229",
+    "project_id": "android-nail-shop",
+    "storage_bucket": "android-nail-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728375888229:android:5a50f45e1dbe337663398c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728375888229-9l202d21dh8rc4hr66ab4bt3vuq2422a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "0999e3cb2c885ddf22cfc85622aafaa4a4598562"
+          }
+        },
+        {
+          "client_id": "728375888229-etb47u71df1rrfi5d1hlatl5bkceks1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBceKdg5SlFJ62ZmqqCbpvnZOXCBC8bYEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728375888229-etb47u71df1rrfi5d1hlatl5bkceks1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
